@@ -1,3 +1,3 @@
-export const SERVER_URL = 'https://your-render-url.onrender.com'; //replace with our render.com url
-export const AGORA_APP_ID = 'YOUR_AGORA_APP_ID'; 
-export const AGORA_TOKEN = 'YOUR_TEMP_TOKEN'; //get it from agora dashboard
+export const SERVER_URL = 'https://ludo-backend-up3o.onrender.com'; 
+export const AGORA_APP_ID = '980d5956d4e54221873a1a8276a85451'; 
+export const AGORA_TOKEN = '007eJxTYDB6Ke/0gje6dsYfTlZvkWMCWnd8i1i5P2efTebMsb9cWqrAYGlhkGJqaWqWYpJqamJkZGhhbpxomGhhZG6WaGFqYmqY8jssoyGQkeFN4HEmRgYIBPE5GXxKU/J1i/LzcxkYAOHrHjQ=';
