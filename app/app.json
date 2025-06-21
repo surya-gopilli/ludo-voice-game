@@ -1,10 +1,21 @@
 {
   "expo": {
+    "name": "LudoVoiceGame",
+    "slug": "ludo-voice-game",
+    "version": "1.0.0",
+    "sdkVersion": "53.0.12", // fill your actual SDK version (run `expo doctor` to check)
     "extra": {
       "eas": {
         "projectId": "157139c4-ce46-4fc6-ad5f-5cec2e62ea99"
       }
     },
-    "owner": "surya-gopilli"
+    "plugins": [
+      [
+        "react-native-agora",
+        {
+          "appid": "980d5956d4e54221873a1a8276a85451"
+        }
+      ]
+    ]
   }
 }
